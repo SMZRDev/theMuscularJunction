@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg: #33414a;
+  --color-fg: #ecd0ba;
+
+  --color-btn: var(--color-fg);
+  --color-btn-hover: #f6a98e;
+}
