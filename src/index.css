@@ -9,3 +9,7 @@
   --color-btn: var(--color-fg);
   --color-btn-hover: #f6a98e;
 }
+
+::-webkit-scrollbar {
+  display: none;
+}
